@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //супермощный комментарий
         //ещё один мощный коммент
+
+        System.out.print("superidoldeshow");
     }
 }
